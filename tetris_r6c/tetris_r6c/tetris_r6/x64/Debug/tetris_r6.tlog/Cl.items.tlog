@@ -1,0 +1,12 @@
+C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\core\blocks.c;C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\tetris_r6\x64\Debug\blocks.obj
+C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\core\board.c;C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\tetris_r6\x64\Debug\board.obj
+C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\core\cell.c;C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\tetris_r6\x64\Debug\cell.obj
+C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\core\colors.c;C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\tetris_r6\x64\Debug\colors.obj
+C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\core\common.c;C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\tetris_r6\x64\Debug\common.obj
+C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\core\game_fsm.c;C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\tetris_r6\x64\Debug\game_fsm.obj
+C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\core\game_info.c;C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\tetris_r6\x64\Debug\game_info.obj
+C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\core\stage_info.c;C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\tetris_r6\x64\Debug\stage_info.obj
+C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\drivers\console_driver.c;C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\tetris_r6\x64\Debug\console_driver.obj
+C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\drivers\key_driver.c;C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\tetris_r6\x64\Debug\key_driver.obj
+C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\drivers\sound_driver.c;C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\tetris_r6\x64\Debug\sound_driver.obj
+C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\main.c;C:\Users\USER\Downloads\tetris_r6c\tetris_r6c\tetris_r6\x64\Debug\main.obj
